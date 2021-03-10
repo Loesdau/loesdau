@@ -1,0 +1,8 @@
+{
+    "name": "loesdau/loesdau",
+    "description": "An empty package",
+    "type": "library",
+    "license": "GPL",
+    "minimum-stability": "stable",
+    "require": {}
+}
