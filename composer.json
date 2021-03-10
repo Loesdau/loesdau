@@ -2,7 +2,7 @@
     "name": "loesdau/loesdau",
     "description": "An empty package",
     "type": "library",
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "minimum-stability": "stable",
     "require": {}
 }
